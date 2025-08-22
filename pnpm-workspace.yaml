@@ -1,0 +1,4 @@
+ignoredBuiltDependencies:
+  - '@clerk/shared'
+  - '@prisma/engines'
+  - prisma
